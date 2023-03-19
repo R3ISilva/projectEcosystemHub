@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "projectEcosystemHub (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "projectEcosystemHub (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
